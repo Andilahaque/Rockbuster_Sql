@@ -35,7 +35,8 @@
     
     Visualizations were created in Tableau. The link are below:
 
-      (https://public.tableau.com/app/profile/andila.haque/viz/SaleCustomerNumbersacrossgeographicregions/Sheet4?publish=yes)
+      [1-](https://public.tableau.com/app/profile/andila.haque/viz/SaleCustomerNumbersacrossgeographicregions/Sheet4?publish=yes)
+      
       
       
       -https://public.tableau.com/app/profile/andila.haque/viz/Top5Customerswithhighestrevenue/Sheet1?publish=yes
