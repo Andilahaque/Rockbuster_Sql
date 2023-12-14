@@ -1,0 +1,24 @@
+# Find the average amount paid by the top 5 customers.
+
+WITH avg_amount_paid_cte (customer_id,first_name,last_name,country,city,
+						  total_paid_amount)
+AS
+(
+select A.customer_id , A.first_name  , A.last_name  , D.country ,
+C.city , sum(amount) AS total_paid_amount
+from customer A
+inner join address B ON A.address_id = B.address_id
+inner join city C ON B.city_id = C.city_id
+inner join country D ON C.country_id = D.country_id
+inner join payment E ON A.customer_id = E.customer_id
+GROUP BY A.customer_id , A.first_name  , A.last_name  , D.country ,C.city 
+HAVING C.city IN
+('Aurora', 'Acua', 'Citrus Heights', 'Iwaki', 'Ambattur',
+'Shanwei', 'So Leopoldo', 'Teboksary', 'Tianjin', 'Cianjur')
+ORDER BY "total_paid_amount" DESC
+LIMIT 5)
+select AVG(total_paid_amount)
+FROM avg_amount_paid_cte
+;
+
+
