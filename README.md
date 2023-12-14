@@ -31,9 +31,9 @@
     Staff
     Store
 
-    **Visualizations**
+**Visualizations**
     
-      Visualizations were created in Tableau. The link are below:
+    Visualizations were created in Tableau. The link are below:
 
       -https://public.tableau.com/app/profile/andila.haque/viz/Countrieswithhighestrevenueinmovies/Sheet1?publish=yes 
       -https://public.tableau.com/app/profile/andila.haque/viz/Top5Customerswithhighestrevenue/Sheet1?publish=yes
