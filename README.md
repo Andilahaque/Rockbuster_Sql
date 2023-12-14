@@ -15,7 +15,7 @@
     Payment
     Rental
     
-##**Dimension Tables**
+**Dimension Tables**
 
     Actor
     Address
@@ -31,7 +31,7 @@
     Staff
     Store
 
-    ##**Visualizations**
+    **Visualizations**
     
       Visualizations were created in Tableau. The link are below:
 
