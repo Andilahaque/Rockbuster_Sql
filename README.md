@@ -35,8 +35,13 @@
     
     Visualizations were created in Tableau. The link are below:
 
-      -https://public.tableau.com/app/profile/andila.haque/viz/Countrieswithhighestrevenueinmovies/Sheet1?publish=yes 
+      (https://public.tableau.com/app/profile/andila.haque/viz/SaleCustomerNumbersacrossgeographicregions/Sheet4?publish=yes)
+      
+      
       -https://public.tableau.com/app/profile/andila.haque/viz/Top5Customerswithhighestrevenue/Sheet1?publish=yes
+      
       -https://public.tableau.com/app/profile/andila.haque/viz/TotalRevenuebyRating_16962938416240/Sheet2?publish=yes
+      
       -https://public.tableau.com/app/profile/andila.haque/viz/TotalRevenuebyMovie/Sheet3?publish=yes
+      
       -https://public.tableau.com/app/profile/andila.haque/viz/SaleCustomerNumbersacrossgeographicregions/Sheet4?publish=yes
