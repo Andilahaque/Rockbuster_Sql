@@ -36,17 +36,18 @@
 
 ## **VISUALIZATIONS**
     
-    Visualizations were created in Tableau. The links are below:
+Visualizations were created in Tableau. The links are below:
+    
+[1-](https://public.tableau.com/app/profile/andila.haque/viz/SaleCustomerNumbersacrossgeographicregions/Sheet4?publish=yes)    
+   
+[2-](https://public.tableau.com/app/profile/andila.haque/viz/Top5Customerswithhighestrevenue/Sheet1?publish=yes)
+      
+[3-](https://public.tableau.com/app/profile/andila.haque/viz/TotalRevenuebyRating_16962938416240/Sheet2?publish=yes)
+      
+[4-](https://public.tableau.com/app/profile/andila.haque/viz/TotalRevenuebyMovie/Sheet3?publish=yes)
+      
+[5-](https://public.tableau.com/app/profile/andila.haque/viz/SaleCustomerNumbersacrossgeographicregions/Sheet4?publish=yes)
 
-      [1-](https://public.tableau.com/app/profile/andila.haque/viz/SaleCustomerNumbersacrossgeographicregions/Sheet4?publish=yes)    
-      
-      [2-](https://public.tableau.com/app/profile/andila.haque/viz/Top5Customerswithhighestrevenue/Sheet1?publish=yes)
-      
-      [3-](https://public.tableau.com/app/profile/andila.haque/viz/TotalRevenuebyRating_16962938416240/Sheet2?publish=yes)
-      
-      [4-](https://public.tableau.com/app/profile/andila.haque/viz/TotalRevenuebyMovie/Sheet3?publish=yes)
-      
-      [5-](https://public.tableau.com/app/profile/andila.haque/viz/SaleCustomerNumbersacrossgeographicregions/Sheet4?publish=yes)
 
       
 
